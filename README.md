@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShrayThakur
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning new programming language
+- 🌱 I’m currently learning new skills
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email me
 
